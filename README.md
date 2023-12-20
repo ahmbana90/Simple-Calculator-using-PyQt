@@ -13,6 +13,6 @@ This project is a simple yet functional calculator built using PyQt5 in Python. 
 - **Keyboard Accessibility:** Each button on the calculator can be accessed using the keyboard.
 
 ## How to Run
- **Clone the Repository:**
+  **Clone the Repository:**
    ```bash
    git clone [repository-link]
